@@ -1,3 +1,8 @@
+/*
+* Wu Q, Mu Y, Susilo W, et al. Asymmetric group key agreement[M]
+* Advances in Cryptology-EUROCRYPT 2009. Springer Berlin Heidelberg, 2009: 153-170.
+*
+* */
 package cn.edu.buaa.crypto.library.asgka;
 
 import it.unisa.dia.gas.jpbc.Element;

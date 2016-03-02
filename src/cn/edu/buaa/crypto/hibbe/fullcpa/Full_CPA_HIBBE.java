@@ -1,15 +1,10 @@
+/*
+ * Yao, Danfeng, et al.
+ * "ID-based encryption for complex hierarchies with applications to forward security and broadcast encryption."
+ * IACR Cryptology ePrint Archive 2004 (2004): 354-363.
+* */
 package cn.edu.buaa.crypto.hibbe.fullcpa;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-
-import cn.edu.buaa.crypto.algs.GeneralHash;
-import cn.edu.buaa.crypto.algs.SymmetricBlockEnc;
-import cn.edu.buaa.crypto.algs.GeneralHash.HashMode;
-import cn.edu.buaa.crypto.algs.SymmetricBlockEnc.Mode;
 import cn.edu.buaa.crypto.base.ParameterGenerator;
 import cn.edu.buaa.crypto.util.StdOut;
 import it.unisa.dia.gas.jpbc.Element;

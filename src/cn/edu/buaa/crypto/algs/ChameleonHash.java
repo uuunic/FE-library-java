@@ -1,3 +1,6 @@
+/*
+* Krawczyk, Hugo, and Tal Rabin. "Chameleon Hashing and Signatures.." IACR Cryptology ePrint Archive 1998 (1998).
+* */
 package cn.edu.buaa.crypto.algs;
 
 import cn.edu.buaa.crypto.base.ParameterGenerator;
